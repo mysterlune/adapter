@@ -11,7 +11,8 @@
     "async" : "0.2.x",
     "underscore": "1.4.x",
     "superagent": "0.12.x",
-    "yamljs": "0.1.x"
+    "yamljs": "0.1.x",
+    "object": "git+https://github.com/mysterlune/object.git"
   },
   "devDependencies" : {
     "mocha": "1.8.x",

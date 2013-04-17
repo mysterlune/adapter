@@ -1,4 +1,4 @@
-var object = require('../../../lib/object')
+var object = require('object')
     , data = require('../../../lib/data');
 
 module.exports.type = 'hand';

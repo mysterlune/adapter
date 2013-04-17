@@ -1,4 +1,4 @@
-var object = require('../lib/object')
+var object = require('object')
     , express = require('express')
     , _ = require('underscore')
     fs = require('fs')

@@ -3,7 +3,7 @@
 */
 var debug = false
     , _ = require('underscore')
-    , object = require('../lib/object')
+    , object = require('object')
     , Adapter = require('../lib/adapter')
     , data = require('./test_fixture');
 
