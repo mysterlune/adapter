@@ -1,5 +1,5 @@
 var object = require('object')
-    , data = require('../../../lib/data');
+    , data = require('../../../lib').Data;
 
 module.exports.type = 'arm';
 module.exports.scheme = data.create({

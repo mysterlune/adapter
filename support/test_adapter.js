@@ -4,7 +4,7 @@
 var debug = false
     , _ = require('underscore')
     , object = require('object')
-    , Adapter = require('../lib/adapter')
+    , Adapter = require('../lib').Adapter
     , data = require('./test_fixture');
 
 var TestAdapter = Adapter.extend({
