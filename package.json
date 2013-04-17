@@ -1,5 +1,5 @@
 {
-  "name": "hoser",
+  "name": "adapter",
   "version": "0.0.1",
   "description": "Adapter for Node / Express application to remote resources",
   "main": "index.js",
@@ -21,10 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mysterlune/hoser.git"
+    "url": "https://github.com/mysterlune/adapter.git"
   },
   "keywords": [
-    "hoser"
+    "adapter",
+    "rest"
   ],
   "author": "River Lune",
   "license": "BSD",
